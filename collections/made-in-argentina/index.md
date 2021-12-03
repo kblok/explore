@@ -12,6 +12,7 @@ items:
   - decentraland/marketplace
   - dropwizard/dropwizard
   - andresriancho/w3af
+  - hardkoded/puppeteer-sharp
 display_name: Made in Argentina
 created_by: marcosnils
 image: made-in-argentina.png
